@@ -7,3 +7,6 @@
 [submodule "aoc-2024-day3"]
 	path = aoc-2024-day3
 	url = https://github.com/ValynTyler/aoc-2024-day3.git
+[submodule "aoc-2024-day4"]
+	path = aoc-2024-day4
+	url = https://github.com/ValynTyler/aoc-2024-day4.git
